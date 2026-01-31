@@ -26,6 +26,8 @@ Le jeu de données utilisé est **"Planets and Moons Dataset - AI in Space"**, p
 ## 🛠️ Installation et Prérequis
 Les notebooks sont conçus pour fonctionner sur Google Colab ou un environnement local avec support GPU recommandé pour le CNN.
 
+Lien du git : [MLIP_SOUFIANE_THOMAS](https://github.com/Soufianelotfi-lab/MLIP_SOUFIANE_THOMAS.git)
+
 **Dépendances principales :**
 ```bash
 pip install torch torchvision numpy pandas scikit-learn scikit-image opencv-python mahotas matplotlib seaborn kagglehub tqdm
