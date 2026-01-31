@@ -93,6 +93,10 @@ pip install torch torchvision numpy pandas scikit-learn scikit-image opencv-pyth
     - Remarques :
       
       - Ouvrir dans Google Colab.
+     
+      - Pour l'analyse des caractéristiques, le code correspondant peut être décommenté/commenté à la fin de la définition de extract_features(img_path, size=(128, 128)) à la section 4
+     
+      - Pour la validation croisée et l'analyse des caractéristiques, le flag correspondant doit être mis à **TRUE** et les autres à **FALSE**.
       
       - Exécuter toutes les cellules.
     
